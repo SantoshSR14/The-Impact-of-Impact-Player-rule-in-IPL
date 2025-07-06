@@ -6,9 +6,9 @@ The Impact player rule allows teams to substitute one player from a list of 5 na
 The datasets used are data from the last two IPL seasons before introducing the Impact player rule (IPL 2021-22) and first two seasons of IPL after introducing the Impact player rule (IPL 2023-24).
 
 📁 Datasets used: 
-1. Kaggle-https://lnkd.in/gQ-A2GNS
-2.Kaggle-https://lnkd.in/gQ4sw3dG
-3.Kaggle-https://lnkd.in/gS4wtsmK
+1. Kaggle-https://lnkd.in/gQ-A2GNS \n
+2.Kaggle-https://lnkd.in/gQ4sw3dG \n
+3.Kaggle-https://lnkd.in/gS4wtsmK \n
 
 🔎 Modules of this project:
 1.Frequency of 200+ scores and 200+ successful chases
